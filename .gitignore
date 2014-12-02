@@ -3,6 +3,12 @@
 *.exe
 *.dll
 
+# 圧縮ファイルを除外
+*.zip
+*.7z
+*.rar
+*.lzh
+
 # Gemの管理ファイルを除外
 Gemfile.lock
 
