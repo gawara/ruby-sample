@@ -1,0 +1,9 @@
+
+# Gemの管理ファイルを除外
+Gemfile.lock
+
+# 依存ライブラリ管理フォルダを除外
+.bundle/
+vendor/
+
+
